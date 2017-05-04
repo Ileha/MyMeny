@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4F3E8440-5876-4DAA-AD58-2F2E786A0D59}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyMeny PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyMeny/Program.cs">
+    <Files>
+      <File FileName="MyMeny/Program.cs" Line="11" Column="24" />
+      <File FileName="MyMeny/RuntimeClass.cs" Line="1" Column="1" />
+      <File FileName="MyMeny/Prog.cs" Line="6" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

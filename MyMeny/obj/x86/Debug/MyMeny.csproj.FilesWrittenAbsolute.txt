@@ -1,0 +1,10 @@
+/Users/aleksei/Projects/MyMeny/MyMeny/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/aleksei/Projects/MyMeny/MyMeny/bin/Debug/MyMeny.exe.mdb
+/Users/aleksei/Projects/MyMeny/MyMeny/bin/Debug/MyMeny.exe
+/Users/aleksei/Projects/MyMeny/MyMeny/obj/x86/Debug/MyMeny.exe
+/Users/aleksei/Projects/MyMeny/MyMeny/obj/x86/Debug/MyMeny.exe.mdb
+/Users/Alexey/Documents/Programm Projects/C#/MyMeny/MyMeny/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Alexey/Documents/Programm Projects/C#/MyMeny/MyMeny/bin/Debug/MyMeny.exe.mdb
+/Users/Alexey/Documents/Programm Projects/C#/MyMeny/MyMeny/bin/Debug/MyMeny.exe
+/Users/Alexey/Documents/Programm Projects/C#/MyMeny/MyMeny/obj/x86/Debug/MyMeny.exe
+/Users/Alexey/Documents/Programm Projects/C#/MyMeny/MyMeny/obj/x86/Debug/MyMeny.exe.mdb
