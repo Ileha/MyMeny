@@ -19,3 +19,10 @@ Test meny with delegates
 * Для перезаписи локальных изменений удалёнными
  - git fetch --all
  - git reset --hard origin <имя_ветки>
+* ul
+ 1. ol
+ 1. ol
+
+ 1. ol
+ * ul
+ * ul
