@@ -6,9 +6,9 @@ namespace MyMeny
 	class MainClass
 	{
 
-		//static Run MyMain = new Run();
+		static Run MyMain = new Run();
 		public static void Main (string[] args) {
-			//MyMain.RunProgram();
+			MyMain.RunProgram();
 			Console.WriteLine("Hello World!!!");
 		}
 	}
