@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.MyMeny PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MyMeny/Program.cs">
     <Files>
-      <File FileName="MyMeny/Program.cs" Line="11" Column="24" />
+      <File FileName="MyMeny/Program.cs" Line="12" Column="6" />
       <File FileName="MyMeny/RuntimeClass.cs" Line="1" Column="1" />
       <File FileName="MyMeny/Prog.cs" Line="6" Column="18" />
     </Files>
