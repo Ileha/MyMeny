@@ -8,3 +8,13 @@ git add README.md //добавление новых файлов или обно
 git commit -m "first commit" //создание склепка изменений(всех добавленных или изменённых данных)
 git remote add origin https://github.com/Ileha/MyMeny.git //добавление удалённого репозитория в проект
 git push -u origin master //отправка в ветку master
+
+git pull origin master //получить последние изменения других контрибьютеров
+git log //Вся история проекта
+git log -u //Вся история проекта + изменения в коде
+git log --graph --all --decorate --oneline //Вся история проекта в виде графа
+git status //Для просмотра статуса репозитория(внесённые изменения) - работает локально
+
+Для перезаписи локальных изменений удалёнными
+git fetch --all
+git reset --hard origin <имя_ветки>
