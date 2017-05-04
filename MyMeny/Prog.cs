@@ -16,7 +16,7 @@ namespace MyMeny
 		}
 
 		public override void Updates () {
-			
+			Console.WriteLine("123");
 		}
 
 		public void title_01(Button button) {
