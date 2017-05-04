@@ -2,7 +2,7 @@
 Test meny with delegates
 ## Комманды git
 * create a new repository on the command line  
-    git init ![#f03c15](_//создание git-a на локальной машине_)  
+    git init <style="color:red">_//создание git-a на локальной машине_<style>  
     git add README.md _//добавление новых файлов или обновление старых(через git add .)_  
     git commit -m "first commit" _//создание склепка изменений(всех добавленных или изменённых данных)_  
     git remote add origin https://github.com/Ileha/MyMeny.git _//добавление удалённого репозитория в проект_  
