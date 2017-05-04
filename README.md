@@ -27,5 +27,9 @@ Test meny with delegates
 * * *
 *  Конфиги git  
     располагается: $HOME/.gitconfig  
+* * *
+* настройка mergetool  
+    git config --global merge.tool kdiff3 //_задание программы с помощю которой будем мёржить_  
+    git config --global mergetool.kdiff3.path /Applications/kdiff3.app/Contents/MacOS/kdiff3 //_путь к программе_  
 ## Редактирование README.md  
 [Краткое руководство по Маркдауну](http://paulradzkov.com/2014/markdown_cheatsheet/ "Я ссылка")
