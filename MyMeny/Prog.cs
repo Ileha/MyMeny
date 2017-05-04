@@ -11,6 +11,7 @@ namespace MyMeny
 			controll.GetGrupe("Main").AddButton("title_01",title_01);
 			controll.GetGrupe("Main").AddButton("Print",Hello);
 			controll.GetGrupe("Main").AddButton("Exit",exit);
+			controll.GetGrupe("Title 01").AddButton("Print for Title 01", Hello);
 			controll.GetGrupe("Title 01").AddButton("Bask",ChangeGroupe);
 		}
 
