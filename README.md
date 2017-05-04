@@ -18,5 +18,14 @@ Test meny with delegates
 * Для перезаписи локальных изменений удалёнными  
     git fetch --all  
     git reset --hard origin <имя_ветки>  
+* * *
+* Работа с ветками  
+    git branch _//просмотр доступных веток_  
+    git branch -v _//расширенный просмотр веток_  
+    git branch <имя новой ветки> _//создание новой ветки_  
+    git checkout <имя существующей ветки> _//преключение на существующую ветку  
+* * *
+*  Конфиги git  
+    располагается: $HOME/.gitconfig  
 ## Редактирование README.md  
 [Краткое руководство по Маркдауну](http://paulradzkov.com/2014/markdown_cheatsheet/ "Я ссылка")
