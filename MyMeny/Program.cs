@@ -9,7 +9,6 @@ namespace MyMeny
 		static Run MyMain = new Run();
 		public static void Main (string[] args) {
 			MyMain.RunProgram();
-			//Console.WriteLine("Hello World!!!");
 		}
 	}
 }
