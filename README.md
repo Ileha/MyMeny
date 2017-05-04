@@ -2,11 +2,11 @@
 Test meny with delegates
 ## Комманды git
 * create a new repository on the command line
-    - git init //создание git-a на локальной машине
-    - git add README.md //добавление новых файлов или обновление старых(через git add .)
-    - git commit -m "first commit" //создание склепка изменений(всех добавленных или изменённых данных)
-    - git remote add origin https://github.com/Ileha/MyMeny.git //добавление удалённого репозитория в проект
-    - git push -u origin master //отправка в ветку master
+    git init __//создание git-a на локальной машине__
+    git add README.md __//добавление новых файлов или обновление старых(через git add .)__
+    git commit -m "first commit" __//создание склепка изменений(всех добавленных или изменённых данных)__
+    git remote add origin https://github.com/Ileha/MyMeny.git __//добавление удалённого репозитория в проект__
+    git push -u origin master __//отправка в ветку master__
 * * *
 * Useful commands
     - git pull origin master //получить последние изменения других контрибьютеров
